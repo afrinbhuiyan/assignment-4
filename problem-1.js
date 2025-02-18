@@ -7,6 +7,3 @@ function calculateVAT( price ) {
     const totalVAT = VAT * price / 100;
     return totalVAT
 }
-
-const result = calculateVAT(200);
-console.log(result);

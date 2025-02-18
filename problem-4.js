@@ -16,9 +16,3 @@ function validProposal(person1, person2) {
   return false;
 }
 
-const result = validProposal(
-  { name: "Rahul", gender: "male", age: 28 },
-  { name: "Joya", gender: "female", age: 21 }
-);
-
-console.log(result);

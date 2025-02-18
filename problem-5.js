@@ -19,6 +19,3 @@ function  calculateSleepTime( times ) {
     }
     return sleepTime;
 }
-
-const result = calculateSleepTime([1000, 499, 519, 300]);
-console.log(result);

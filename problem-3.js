@@ -17,6 +17,3 @@ function  willSuccess( marks ) {
     }
     return false;
 }
-
-const result = willSuccess([60, 70, 80, 40, 30]);
-console.log(result);

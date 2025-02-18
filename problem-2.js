@@ -8,5 +8,3 @@ function validContact(contact) {
   return false;
 }
 
-const result = validContact("01819234567");
-console.log(result);
